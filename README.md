@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Javascript | Typescript | ReactJS | NestJS
 ------------------------------------------
 
+I'm a full stack developer currently working for a company in Argentina using the javascript ecosystem.
+
 *   🌍  I'm based in Buenos Aires, Argentina.
 
 ### Skills 
@@ -22,6 +24,6 @@ Javascript | Typescript | ReactJS | NestJS
 </p>
                     
 
-### Socials
+ ### Socials
                   
-<p align="left"> <a href="https://www.github.com/maximp14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maximilianopavolini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ <p align="left"> <a href="https://www.github.com/maximp14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maximilianopavolini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
